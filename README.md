@@ -24,7 +24,6 @@ data = tb.getCoinalityPostings()
 tb.parsePostings(data)
 ```
 ```python
->> python tb.py
 >> Querying Coinality Job Data...
 >> Searching for Jobs with: test
 >> No Job postings with test found

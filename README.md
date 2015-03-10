@@ -4,7 +4,6 @@
 
  * Given a list of Keywords scans Coinality open postings for matches
 
-I'm no good at writing sample / filler text, so go write something yourself.
 
 ### Technology:
 
@@ -44,7 +43,7 @@ This is [Coinality API](https://coinality.com/api-documentation/) to derive job 
 
 ### Future Improvements:
 
- * [marked](https://github.com/chjj) for Markdown parsing
- * [CodeMirror](http://codemirror.net/) for the awesome syntax-highlighted editor
- * [highlight.js](http://softwaremaniacs.org/soft/highlight/en/) for syntax highlighting in output code blocks
- * [js-deflate](https://github.com/dankogai/js-deflate) for gzipping of data to make it fit in URLs
+ * More sites to get Job Postings from
+ * Result Parsing into Objects, instead of a Big String
+ * E-mail Alerts
+ * Running at all time
